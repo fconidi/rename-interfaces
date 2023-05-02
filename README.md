@@ -6,6 +6,8 @@ The script is designed to rename network interfaces on a Linux machine using sys
 
 Script Usage:
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 git clone https://github.com/fconidi/rename-interfaces.git
 
 cd rename-interfaces/
@@ -15,3 +17,9 @@ chmod +x rename-interfaces.sh
 sudo ./rename-interfaces.sh
 
 sudo reboot
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+# Source: https://francoconidi.it
+# Source: https://syslinuxos.com
